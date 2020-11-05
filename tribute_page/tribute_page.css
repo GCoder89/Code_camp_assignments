@@ -1,0 +1,38 @@
+html
+{
+  font-size:10px;
+}
+
+ body{
+  background-color: black;
+  color: #50C878;
+  font-family: palatino;
+  font-size:1.6rem;
+  line-height:1.5;
+  text-align:center;
+  margin:0;
+  }
+
+
+#img-caption
+{
+  text-align:center;
+}
+
+#image
+{
+  max-width:100%;
+  height:auto;
+  display:block;
+  margin:0 auto;
+  padding:50px;
+  
+}
+
+a{
+  color:#477ca7;
+}
+
+a:visited{
+  color:#74638f;
+}
